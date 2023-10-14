@@ -1,1 +1,2 @@
-# Mineral-Processing
+In the field of Mineral Processing Technology, size analysis of the various particles of an extracted sample is of importance in determining the quality of minerals, entropy values and in establishing the degree of liberation of the values from the gangue at various particle sizes.
+In this problem statement, candidate is required to analyze the mineral particles in the input folder and calculate the 
